@@ -1,4 +1,4 @@
 string test ("git project"){
-git project test
+g1t project test
 }
 
