@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+string test ["git project"]{
+g2t project test
+=======
+string test ("git project"){
+g1t project test
+>>>>>>> branch2
+}
+
