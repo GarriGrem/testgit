@@ -3,14 +3,7 @@ string test ["git project"]{
 g2t project test
 =======
 string test ("git project"){
-<<<<<<< HEAD
 g1t project test
 >>>>>>> branch2
-||||||| d9f6677
-git project test
-=======
-g1t project test
->>>>>>> br2
 }
-test new br2
 
